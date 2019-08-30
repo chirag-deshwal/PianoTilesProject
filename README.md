@@ -7,8 +7,5 @@ A simple Piano Tiles game made with Android Studio.
 * The game has a 20 second timer.
 * The score is displayed after the game ends.
 
-![](images/PianotilesStart.png)
+![](images/Pianotiles.png)
 
-![](images/PianotilesGame.png)
-
-![](images/PianotilesScore.png)
